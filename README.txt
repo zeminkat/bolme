@@ -1,1 +1,1 @@
-"Bölme İşlemi"nin öğretimine yönelik etkilieşimli bir içeriğin test sürümüdür.
+"Bölme İşlemi"nin öğretimine yönelik etkileşimli bir içeriğin test sürümüdür.
